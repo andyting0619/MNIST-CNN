@@ -3,10 +3,10 @@
 # Project Overview
 - The goal of this project is to train a convolutional neural network (LeNet-5) to recognize and classify handwritten digits from the MNIST dataset.
 # Project Result
-- Accuracy score: `99.27%`
-- Precision score: `99.27%`
-- Recall score: `99.27%`
-- F1 score: `99.27%`
+- Accuracy score: `99.35%`
+- Precision score: `99.35%`
+- Recall score: `99.35%`
+- F1 score: `99.35%`
 # Requirement
 - Python 3.8 or higher
 # How to Use the Model
